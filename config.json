@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emaildelete",
+        "uuid": 4747800,
+        "checksum": "oclh7n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
